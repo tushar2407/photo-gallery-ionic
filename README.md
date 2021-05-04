@@ -11,3 +11,6 @@
 ```
 ## Commands
     - ionic g service services/photo
+
+## Staring the server 
+    - ionic serve
