@@ -14,3 +14,15 @@
 
 ## Staring the server 
     - ionic serve
+
+## Setting up
+    - npm install -g @ionic/cli native-run cordova-res
+    - npm install @ionic/pwa-elements
+    - ionic serve
+
+## after making changes
+    - ionic build
+    - ionic cap add android (/ios)
+    - ionic cap copy 
+    - ionic cap sync
+    - ionic cap open android (/ios)
